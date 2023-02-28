@@ -1,22 +1,19 @@
 
-# :ladder
-
-
-/table of contents
+# :ladder:
 
 
 # subscription
 
-## WestWorldSS
+### WestWorldSS
 * [westworld](https://xbsj7654.xyz)
 
-## KolaCloud
+### KolaCloud
 * [KolaCloud](https://www.kolacloud.com)
 
 
 # VPS
 
-## vultr
+### vultr
 * [vultr](https://my.vultr.com)
 * [V2Ray configure tutorial-English version](https://guide.v2fly.org/en_US/)
 * [V2Ray configure tutorial-Chinese version](https://guide.v2fly.org)
@@ -24,7 +21,7 @@
 * [How to buy a vultr vps](https://v2raytech.com/vultr-buy-vps-tutorial/)
 * [How to buy a vultr vps](https://www.xiaoglt.top/购买vultr服务器超详细图文教程/)
 
-## Bandwagon
+### Bandwagon
 * [Bandwagon](https://www.bwh1.net)
 
 # Collection
