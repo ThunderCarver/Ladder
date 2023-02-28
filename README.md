@@ -3,11 +3,7 @@
 
 
 # subscription
-
-### WestWorldSS
 * [westworld](https://xbsj7654.xyz)
-
-### KolaCloud
 * [KolaCloud](https://www.kolacloud.com)
 
 
