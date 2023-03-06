@@ -4,7 +4,7 @@
 
 # subscription
 * [westworld](https://xbsj7654.xyz)
-* [KolaCloud](https://www.kolacloud.com)
+* [KolaCloud](https://yezhi.pro/)
 * [SockBoom](https://sockboom.bar)
 
 # VPS
