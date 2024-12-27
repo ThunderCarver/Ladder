@@ -17,6 +17,7 @@
 ## subscription
 * [westworld](https://xbsj7654.xyz)
 * [spare1 westworld](https://westworldss.com)
+* [yezhiNet](https://yeztechjp.com)
 * [KolaCloud](https://yezhi.pro/)
 * [SockBoom](https://sockboom.bar)
 * [FengYe](https://www.fenghost.net/index.php)
