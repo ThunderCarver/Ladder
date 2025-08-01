@@ -15,7 +15,7 @@
 [virtual phone number](https://sms-activate.org/cn)
 
 ## subscription
-* [westworld](https://xbsj7654.xyz)
+* [westworld](https://cobo626.com)
 * [spare1 westworld](https://ww9510.com)
 * [yezhiNet](https://yeztechjp.com)
 * [KolaCloud](https://yezhi.pro/)
