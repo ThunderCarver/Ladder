@@ -21,6 +21,7 @@
 * [KolaCloud](https://yezhi.pro/)
 * [SockBoom](https://sockboom.bar)
 * [FengYe](https://www.fenghost.net/index.php)
+* [OTE Acceelerator](https://us.oteacc.org/#/register?code=uuHZCxYF)
 
 
 ## VPS
