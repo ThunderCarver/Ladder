@@ -42,4 +42,5 @@
 * [various proxy tutorials](https://www.xiaoglt.top)
 * [various proxy websites](https://1.234456.xyz/abc.html?t=637181676644177451)
 * [the best collection](https://github.com/githubvpn007/v2rayNvpn)
+* [The 40 Best VPNs](https://github.com/John19187/The-40-Best-VPNs)
 
