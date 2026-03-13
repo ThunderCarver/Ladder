@@ -17,6 +17,7 @@
 ## subscription
 * [westworld](https://cobo626.com)
 * [spare1 westworld](https://ww9510.com)
+* [xgcloud](https://my.xgcloud.pro/#/login)
 * [KolaCloud](https://kolacloud.github.io/)
 * [SockBoom](https://sockboom.bar)
 * [FengYe](https://www.fenghost.net/index.php)
