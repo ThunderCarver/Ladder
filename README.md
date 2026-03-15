@@ -22,6 +22,8 @@
 * [SockBoom](https://sockboom.bar)
 * [FengYe](https://www.fenghost.net/index.php)
 * [OTE Acceelerator](https://us.oteacc.org/#/register?code=uuHZCxYF)
+* [Gladus](https://glados.rocks/)
+* [Gladus](https://glados.network/)
 
 
 ## VPS
