@@ -25,6 +25,7 @@
 * [Gladus](https://glados.rocks/)
 * [Gladus](https://glados.network/)
 * [狗狗加速](https://www.dg6.me)
+* [爱酷](ikuuu.top)
 
 
 ## VPS
